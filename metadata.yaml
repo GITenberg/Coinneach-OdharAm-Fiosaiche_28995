@@ -1,0 +1,27 @@
+_repo: Coinneach-OdharAm-Fiosaiche_28995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blair, D. B.
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '33627'
+    url: http://www.gutenberg.org/2009/agents/33627
+description: ''
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28995'
+language: gla
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coinneach Odhar'
+- !lcc 'BF'
+- !lcsh 'Prophecies'
+title: Coinneach Odhar, Am Fiosaiche
+url: http://www.gutenberg.org/ebooks/28995
